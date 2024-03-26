@@ -1,0 +1,1 @@
+console.log('Asif Zardari once said, "Jiye Bhutto"');
